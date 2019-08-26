@@ -1,0 +1,25 @@
+body {
+	background-color: black;
+}
+
+pre {
+	color: red;
+
+}
+
+p {
+	text-align: center;
+	font-size: 15px;
+	font-family: monospace, courier;
+	color: red;
+
+}
+.button{
+	text-align: center;
+
+}
+.footer{
+	margin-top: 250px;
+	padding-top:10px;
+
+}
